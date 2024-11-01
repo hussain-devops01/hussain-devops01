@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQF1GNKE5lKkUA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1698166342126?e=1734566400&v=beta&t=i19VOUd3rB2GqkXteU5-qd7XYsyTWT0VO5pUHN1WebM)](https://rishavchanda.io)
+[![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHW2DWKeesgZQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730457337331?e=1735776000&v=beta&t=OWzJDSXqIllNorfdNhUCDGTGSJJE1jOofxGEiF_otLQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hussain Lokhandwala</h1>
 <h3 align="center">DevOps Engineer | 5+ Years of Experience in AWS, CI/CD, Cloud Infrastructure, IaC, and Automation</h3>
 
